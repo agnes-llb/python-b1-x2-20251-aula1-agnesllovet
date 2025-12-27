@@ -100,6 +100,7 @@ from util_package.bill_manager import BillManager
 # Si quieres probar tu código, descomenta las siguientes líneas y ejecuta el script
 #bill_manager = BillManager()
 #bills = bill_manager.create_bills_example()
+#bills = bill_manager.create_bills_EX101()
 #statistics = Statistics(bills)
 #statistics.show()
 #print(statistics.find_top_sell_product())
